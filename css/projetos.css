@@ -74,102 +74,34 @@ body {
 
 }
 
-.cubo {
+.instituicao1{
     position: relative;
-    width: 35%;
+    width: 100%;
     height: 60%;
     left: 0vw;
-    top: 2vw;
+    top: 3vw;
 }
 
-.livro {
+.instituicao2 {
 
     position: relative;
-    width: 50%;
+    width: 100%;
     height: 60%;
     left: 0vw;
-    top: 2vw;
+    top: 3vw;
 
 }
 
-.semente {
+.instituicao3 {
     position: relative;
-    width: 25%;
+    width: 100%;
     height: 60%;
     left: 0vw;
-    top: 2vw;
+    top: 3vw;
 }
 
-.sub_projeto {
-    position: relative;
-    width: 462px;
-    height: 78px;
-    left: 3vw;
-    top: 4vw;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 39px;
-    line-height: 43px;
 
-    display: flex;
-    align-items: center;
-
-    color: #000000;
-}
-
-.sub_semente {
-    position: relative;
-    width: 462px;
-    height: 78px;
-    left: 3vw;
-    top: 4vw;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 39px;
-    line-height: 43px;
-
-    display: flex;
-    align-items: center;
-
-    color: #000000;
-}
-
-.retangulo {
-    position: relative;
-    width: 360px;
-    height: 82px;
-    left: 3vw;
-    top: 4vw;
-
-    background: #FFFFFF;
-    box-shadow: 2px 5px 5px 2px rgba(0, 0, 0, 0.5);
-    border-radius: 20px;
-}
-
-.sub_instituicao {
-    position: relative;
-    width: 281px;
-    height: 25px;
-    left: 2vw;
-    top: 1.5vw;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 45px;
-    line-height: 24px;
-
-    display: flex;
-    align-items: center;
-
-    color: #000000;
-
-    text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.6);
-}
 
 .txt_pro {
     position: relative;
