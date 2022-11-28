@@ -1,0 +1,214 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+#pastas {
+    position: absolute;
+    left: 0vw;
+    top: 8vw;
+}
+
+.fundo1 {
+    position: absolute;
+    width: 755px;
+    height: 510px;
+    left: 9.5vw;
+    top: 1vw;
+    background: #0D7035;
+    border-radius: 15px;
+}
+
+.fundo2 {
+    position: absolute;
+    width: 755px;
+    height: 510px;
+    left: 50.5vw;
+    top: 1vw;
+    background: #0D7035;
+    border-radius: 15px;
+}
+
+
+.fundo3 {
+    position: absolute;
+    width: 755px;
+    height: 510px;
+    left: 9.5vw;
+    top: 30vw;
+    background: #0D7035;
+    border-radius: 15px;
+}
+
+
+.fundo4 {
+    position: absolute;
+    width: 755px;
+    height: 510px;
+    left: 50.5vw;
+    top: 30vw;
+    background: #0D7035;
+    border-radius: 15px;
+}
+
+
+.Imagem {
+    position: absolute;
+    width: 368px;
+    height: 258px;
+    left: 1vw;
+    top: 1vw;
+    border-radius: 15px 0px 15px 0px;
+
+}
+
+.tituloesquerda {
+    position: absolute;
+    width: 385px;
+    height: 64px;
+    left: 21.5vw;
+    top: 0vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 62px;
+
+    color: #ffffff;
+
+}
+
+.grupo_pesquisa_tratamento {
+    position: relative;
+    height: 27px;
+    left: 21.5vw;
+    top: 4vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+
+.grupo_pesquisa {
+    position: relative;
+    width: 19vw;
+    height: 7vw;
+    left: 21.5vw;
+    top: 3vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #ffffff;
+
+}
+
+.pesquisa_atualizada {
+    position: absolute;
+    width: 38vw;
+    height: 11vw;
+    left: 1vw;
+    top: 14vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 33px;
+    color: #ffffff;
+    background-color: #a1bda4;
+    border-radius: 15px;
+
+}
+
+#projetos {}
+
+.Imagemcheia {
+    position: absolute;
+    width: 1500px;
+    height: 798px;
+    left: 10VW;
+    top: 70vw;
+    border-radius: 15px;
+}
+
+.tituloprojeto {
+    position: absolute;
+    width: 1500px;
+    height: 80px;
+    left: 10vw;
+    top: 110vw;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.projeto1 {
+    position: absolute;
+    width: 1500px;
+    height: auto;
+    left: 10vw;
+    top: 117vw;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    text-indent: 20px;
+
+    color: #010101;
+}
+
+.grupo_projeto {
+    position: absolute;
+    width: 395px;
+    height: 251px;
+    left: 10vw;
+    top: 40vw;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+.grupo_projeto1 {
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 10vw;
+    top: 50vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: justify;
+    color: #000000;
+ 
+
+
+}
